@@ -1,0 +1,52 @@
+list
+search Heard Alonza
+view
+flip
+search
+Smyth
+Jon
+view
+remove
+yes
+view
+pump
+add
+Matthew
+Williams
+Teacher
+69 Main St, Acton, MA
+555-9330
+view
+flip
+remove
+yes
+view
+add
+Jim
+Butler
+Contractor
+33 Cedar Lane, Concord, MA
+555-8535
+view
+search
+Proverb
+Jewel
+view
+remove
+yes
+view
+add
+Jim 
+Butler
+Consultant
+22 Minuteman St, Lexington, MA
+555-4422
+add
+Dan 
+Butler
+Chauffeur
+68 Willow St, Westford, MA
+555-8493
+list
+jump
+quit

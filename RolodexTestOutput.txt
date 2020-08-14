@@ -1,0 +1,113 @@
+Enter input command: list
+* List utility  *
+Coors, Adolf  Beer Manufacturer: Boston MA, 555-2337
+Hansen, Tony  Writer: 12 E. St. NY, NY 33333, 555-9999
+Heard, Alonza  Mechanic: 123 Anyplace Ave Malden, MA, 555-5678
+Lupine, Alan  Vet: 1 Bigelow Ave. Lawrence, MA, 555-7654
+Milton, Fred  Sales: 12 Freedom Way Nashua, NH, 555-9981
+Papert, Seymour  Lego Professor: MIT, 555-1111
+Proverb, Jewel  Landscaper: 34 Washington St. Waltham, MA, 555-3333
+Revere, Paul  Radical Revolutionary: 45 Commonwealth Ave. Boston, MA, 555-1776
+Reyes, Jen  Graphic Artist: 325 Oak Rd Wilmington, MA, 555-4950
+Smyth, Jon  Computer Hardware: CMU Computer Services Pittsburgh, PA, 555-1324
+Enter input command: search
+* Search utility *
+Enter last name: Heard
+Enter first name: Alonza
+Heard, Alonza  Mechanic: 123 Anyplace Ave Malden, MA, 555-5678
+Enter input command: view
+* View utility  *
+Heard, Alonza  Mechanic: 123 Anyplace Ave Malden, MA, 555-5678
+Enter input command: flip
+* Flip utility  *
+Lupine, Alan  Vet: 1 Bigelow Ave. Lawrence, MA, 555-7654
+Enter input command: search
+* Search utility *
+Enter last name: Smyth
+Enter first name: Jon
+Smyth, Jon  Computer Hardware: CMU Computer Services Pittsburgh, PA, 555-1324
+Enter input command: view
+* View utility  *
+Smyth, Jon  Computer Hardware: CMU Computer Services Pittsburgh, PA, 555-1324
+Enter input command: remove
+* Remove utility *
+Remove: Smyth, Jon  Computer Hardware: CMU Computer Services Pittsburgh, PA, 555-1324
+Are you sure? (yes or no): yes
+Enter input command: view
+* View utility  *
+Coors, Adolf  Beer Manufacturer: Boston MA, 555-2337
+Enter input command: pump
+Enter input command: add
+*  Add utility  *
+Enter first name: Matthew
+Enter last name: Williams
+Enter occupation: Teacher
+Enter address: 69 Main St, Acton, MA
+Enter phone number: 555-9330
+Enter input command: view
+* View utility  *
+Williams, Matthew  Teacher: 69 Main St, Acton, MA, 555-9330
+Enter input command: flip
+* Flip utility  *
+Coors, Adolf  Beer Manufacturer: Boston MA, 555-2337
+Enter input command: remove
+* Remove utility *
+Remove: Coors, Adolf  Beer Manufacturer: Boston MA, 555-2337
+Are you sure? (yes or no): yes
+Enter input command: view
+* View utility  *
+Hansen, Tony  Writer: 12 E. St. NY, NY 33333, 555-9999
+Enter input command: add
+*  Add utility  *
+Enter first name: Jim
+Enter last name: Butler
+Enter occupation: Contractor
+Enter address: 33 Cedar Lane, Concord, MA
+Enter phone number: 555-8535
+Enter input command: view
+* View utility  *
+Butler, Jim  Contractor: 33 Cedar Lane, Concord, MA, 555-8535
+Enter input command: search
+* Search utility *
+Enter last name: Proverb
+Enter first name: Jewel
+Proverb, Jewel  Landscaper: 34 Washington St. Waltham, MA, 555-3333
+Enter input command: view
+* View utility  *
+Proverb, Jewel  Landscaper: 34 Washington St. Waltham, MA, 555-3333
+Enter input command: remove
+* Remove utility *
+Remove: Proverb, Jewel  Landscaper: 34 Washington St. Waltham, MA, 555-3333
+Are you sure? (yes or no): yes
+Enter input command: view
+* View utility  *
+Revere, Paul  Radical Revolutionary: 45 Commonwealth Ave. Boston, MA, 555-1776
+Enter input command: add
+*  Add utility  *
+Enter first name: Jim 
+Enter last name: Butler
+Enter occupation: Consultant
+Enter address: 22 Minuteman St, Lexington, MA
+Enter phone number: 555-4422
+Enter input command: add
+*  Add utility  *
+Enter first name: Dan 
+Enter last name: Butler
+Enter occupation: Chauffeur
+Enter address: 68 Willow St, Westford, MA
+Enter phone number: 555-8493
+Enter input command: list
+* List utility  *
+Butler, Dan   Chauffeur: 68 Willow St, Westford, MA, 555-8493
+Butler, Jim  Contractor: 33 Cedar Lane, Concord, MA, 555-8535
+Butler, Jim   Consultant: 22 Minuteman St, Lexington, MA, 555-4422
+Hansen, Tony  Writer: 12 E. St. NY, NY 33333, 555-9999
+Heard, Alonza  Mechanic: 123 Anyplace Ave Malden, MA, 555-5678
+Lupine, Alan  Vet: 1 Bigelow Ave. Lawrence, MA, 555-7654
+Milton, Fred  Sales: 12 Freedom Way Nashua, NH, 555-9981
+Papert, Seymour  Lego Professor: MIT, 555-1111
+Revere, Paul  Radical Revolutionary: 45 Commonwealth Ave. Boston, MA, 555-1776
+Reyes, Jen  Graphic Artist: 325 Oak Rd Wilmington, MA, 555-4950
+Williams, Matthew  Teacher: 69 Main St, Acton, MA, 555-9330
+Enter input command: jump
+Enter input command: quit
